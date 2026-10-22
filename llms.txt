@@ -1,0 +1,17 @@
+# L'Atelier Mannucci
+
+> Garage familial de mécanique, carrosserie et diagnostic électronique toutes marques à Deuil-la-Barre (Val-d'Oise, 95). Note Google : 4,9/5 sur 421 avis.
+
+- Adresse : 85 Rue Cauchoix, 95170 Deuil-la-Barre, France
+- Téléphone : 01 39 64 03 97 (+33 1 39 64 03 97)
+- Horaires : lundi au vendredi, 8h30–12h30 et 13h30–18h30. Fermé samedi et dimanche.
+
+## Services
+- Carrosserie & peinture : peinture cuite au four, débosselage, réparation après choc
+- Mécanique générale & entretien toutes marques : vidange, révision, courroie de distribution, embrayage, freinage
+- Diagnostic électronique : passage à la valise, recherche de pannes, électricité et capteurs
+- Pneumatiques & liaison au sol : montage, équilibrage, géométrie
+- Véhicules d'occasion
+
+## Pages
+- [Accueil](https://atelier-mannucci.vercel.app/): présentation, services, demande de devis, horaires et plan d'accès
