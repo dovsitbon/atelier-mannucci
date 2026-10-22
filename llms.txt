@@ -14,4 +14,4 @@
 - Véhicules d'occasion
 
 ## Pages
-- [Accueil](https://atelier-mannucci.vercel.app/): présentation, services, demande de devis, horaires et plan d'accès
+- [Accueil](https://atelier-mannucci-alpha.vercel.app/): présentation, services, demande de devis, horaires et plan d'accès

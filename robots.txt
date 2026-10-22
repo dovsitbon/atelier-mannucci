@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://atelier-mannucci.vercel.app/sitemap.xml
+Sitemap: https://atelier-mannucci-alpha.vercel.app/sitemap.xml
